@@ -1,1 +1,1 @@
-I'm Kristin 
+I'm Kristin and I'm awesome.
