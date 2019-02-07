@@ -1,4 +1,4 @@
 # cautious-train
-This is where I practice Git stuff.
-Git is the best of both worlds. IMA CHANGE DIS!
+
+This is the new change.
 
